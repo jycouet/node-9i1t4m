@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "node index"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "luxon": "^3.3.0"
+  },
+  "type": "module"
+}
